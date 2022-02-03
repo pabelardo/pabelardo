@@ -1,4 +1,4 @@
-### Olá eu sou o Pedro Abelardo 👋
+### Olá, eu sou o Pedro Abelardo 👋
 
 
 Here are some ideas to get you started:
